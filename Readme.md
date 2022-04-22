@@ -28,13 +28,17 @@ They are very concise and rigorous in what they are requesting. They want a radi
 * It has to show icons for each link
 * It has to show a textbox with a name for each link when hovering
 * All links have to be clickable
+> **_NOTE:_** Menu items can be from 3 to 8.
 ## Nice to have
 * Animation when opening the menu
 * Animation when hovering each link
 * Distribution of the links is reactive
-    * Eg. If there were just 4 links, you will see each link every 90° (360°/4) instead
+    * Eg. If there were just 4 links, you will see each link every 90° (360°/4) 
+    * If there were 8 links, the links will distribute every 45° instead
 * The textbox of each link appears in the left or the right depending in which side is the link
 * Background image
+## Beyond expected
+* It changes dimensions if you see the menu in a phone (narrow screen) or in a desktop (wider)
 
 ---
 
